@@ -1,6 +1,6 @@
 ## Treehouse
 
-This repo is for ll my course files completed through teemtreehouse.com.
+This repo is for all my course files completed through teemtreehouse.com.
 
 Also checkout my Treehouse profile [here](https://github.com/Arthurhussey).
 
